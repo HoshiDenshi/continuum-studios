@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Development Setup
+
+### Windows Drive Configuration (Important)
+This project is intentionally stored on D: drive to preserve C: drive for OS use.
+
+npm cache has been redirected to D: drive:
+
 ## Getting Started
 
 First, run the development server:
